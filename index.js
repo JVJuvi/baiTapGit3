@@ -1,2 +1,2 @@
 console.log("làm bài tập");
-functionMain (logdoneBaiTapBuoi2);
+functionMain (logdoneBaiTapBuoi3);
